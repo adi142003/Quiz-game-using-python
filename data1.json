@@ -1,0 +1,121 @@
+{
+    "question": [
+      "Q1.Coral reefs in India can be found in?",
+      "Q2.Largest State of India?",
+      "Q3.The ozone layer restricts?",
+      "Q4.World Tourism Day is celebrated on-",
+      "Q5.When was the LEGO brick invented?",
+      "Q6.What does the Olympic Flame symbolize?",
+      "Q7.The Flamingo Festival is celebrated in__?",
+      "Q8.Gupta Emperor Chandragupta II was succeeded by?",
+      "Q9.India's first satellite Aryabhatta was launched in?",
+      "Q10.What is the capital of Iceland?",
+      "Q11.Fathometer is used to measure",
+      "Q12.Who invented the World Wide Web in 1990?",
+      "Q13.Country known as 'The land of thousand islands'?",
+      "Q14.Epsom(England) is the place associated with ?",
+      "Q15.'Gnathology' is the study of ?"
+    ],
+    "hints":[
+      "It involves sound and time",
+      "He was born in London,United Kingdom",
+      "The world's biggest flower lives in this country",
+      "It is Known as The Sport of Kings" ,
+      "It is involved in chewing"
+    ],
+
+    "answer": [
+      3,
+      2,
+      4,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      3,
+      1,
+      2,
+      1,
+      2
+    ],
+    "options": [
+      ["Coast of Orissa",
+        "Waltair",
+        "Rameshwaram",
+        "Trivandrum"
+      ],      
+      ["Uttar Pradesh",
+        "Rajasthan",
+        "Punjab",
+        "Bihar"
+      ],
+      ["Visible light",
+        "Infrared radiation",
+        "Gamma rays",
+        "Ultraviolet radiation"
+      ],
+      ["September 27",
+        "September 25",
+        "September 12",
+        "September 29"
+      ],
+      ["1939",
+        "1958",
+        "1960",
+        "1951"
+      ],
+      ["Zeal to play sports",
+        "Challenge",
+        "Continuity",
+        "Integrity"
+      ],
+      ["Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      ["Kumargupta I",
+        "Skandgupta",
+        "Buddhagupta",
+        "Vishnugupta"
+      ],
+      ["1978",
+        "1975",
+        "1965",
+        "1968"
+      ],
+      ["Zagreb",
+        "Helsinki",
+        "Reykjavik",
+        "Amsterdam"
+      ],
+      ["Earthquakes",
+        "Rainfall",
+        "Ocean Depth",
+        "Sound Intensity"
+      ],
+      ["Tim Berners Lee",
+        "Jeff Bezos",
+        "Paul Collier",
+        "David Finkelstein"
+      ],
+      ["Finland",
+        "Indonesia",
+        "Ireland",
+        "Malaysia"
+      ],
+      ["Horse racing",
+        "Shooting",
+        "Polo",
+        "Snooker"
+      ],
+      ["Teeth",
+        "Masticatory system",
+        "Tongue",
+        "Jaw"
+      ]
+    ]
+  }

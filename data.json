@@ -1,0 +1,43 @@
+{
+    "question": [
+      " Q1. What Indian city is the capital of two states?",
+      "       Q2. Which city is the capital of karnataka?",
+      "                Q3. Largest State of India?",
+      "            Q4. Where is Red Fort Located?"
+    ],
+    "tit": [
+        "Level 1",
+        "Level 1",
+        "Level 1",
+        "Level 1"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "options": [
+  
+      ["Chandigarh",
+        "Kolkata",
+        "Delhi",
+        "Bangalore"
+      ],
+      ["Delhi",
+        "Bangalore",
+        "Chennai",
+        "Mumbai"
+      ],
+      ["Uttar Pradesh",
+        "Punjab",
+        "Rajasthan",
+        "Bihar"
+      ],
+      ["Lucknow",
+        "Delhi",
+        "Bhopal",
+        "Agra"
+      ]
+    ]
+  }

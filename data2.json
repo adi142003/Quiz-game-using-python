@@ -1,0 +1,152 @@
+{
+    "question": [
+     "Q1. 1024 bit is equal to how many byte?", 
+     "Q2. Type of electrically erasable programmable read only memory?",
+     "Q3. The purpose of a choke in a tube light is to?",
+     "Q4. What does VHS(video recorder) stand for? ",
+     "Q5. What does UPS mean",
+     "Q6. What is part of a database that holds only one type of information?",
+     "Q7. The input used by an antenna to a TV uses frequencies called?",
+     "Q8. What does fiber optic cable resemble in terms of size?",
+     "Q9. Who founded apple computer?",
+     "Q10. Which of these is not a peripheral in computer terms?",
+     "Q11. What active medium was used in the first working laser?",
+     "Q12. The transformer which develops high voltage in a TV is?",
+     "Q13. Computer hard disk was first introduced by?",
+     "Q14. Which one is the first search engine in internet?",
+     "Q15. Which one programming language is exclusively used for AI?"
+
+    ],
+    "hints":[
+      "It is a type of stone",
+      "Used in AC to DC and Dc to AC conversions",
+      "The CEO is an indian: Arvind Krishna",
+      "It was founded in 1992",
+      "It is a logical and declarative programming language"
+    ],
+
+    "title": [
+        "Level 1",
+        "Level 1",
+        "Level 1",
+        "Level 1"
+    ],
+    "answer": [
+      2,
+      1,
+      4,
+      1,
+      4,
+      2,
+      2,
+      4,
+      3,
+      4,
+      3,
+      2,
+      1,
+      2,
+      3
+
+      
+
+    ],
+    "options": [
+  
+      [
+        "1 Byte",
+        "128 Byte",
+        "32 Byte",
+        "64 Byte"
+      ],
+      [
+        "flash",
+        "flange",
+        "fury",
+        "FRAM"
+      ],
+      [
+        "decrease current",
+        "increase current",
+        "decrease voltage momentarily",
+        "increase voltage momentarily"
+      ],
+      [
+        "video home system",
+        "very high speed",
+        "video horizontal standard",
+        "voltage house standard"
+      ],
+      [
+        "united parcel service",
+        "uniform product support",
+        "under panel storage",
+        "uniterruptable power supply"
+      ],
+      [
+        "report",
+        "field",
+        "record",
+        "file"
+      ],
+      [
+        "IF",
+        "RF",
+        "AF",
+        "SAP"
+      ],
+      [
+        "pipeline",
+        "bamboo",
+        "telephone wire",
+        "human hair"
+      ],
+      [
+        "Stephen Fry",
+        "Bill Gates",
+        "Steve Jobs",
+        "Stephen Hawking"
+      ],
+      [
+        "keyboard",
+        "monitor",
+        "mouse",
+        "mother board"
+      ],
+      [
+        "diamond block",
+        "helium gas",
+        "ruby rod",
+        "CO2 gas" 
+      ],
+      [
+        "tesla coil",
+        "fly back",
+        "yoke",
+        "van de graaf"
+      ],
+      [
+        "IBM",
+        "Apple",
+        "Microsoft",
+        "Dell"
+      ],
+      [
+        "Google",
+        "Aliweb",
+        "Altavista",
+        "WAIS"
+      ],
+      [
+        "C",
+        "Java",
+        "Prolog",
+        "J2EE"
+      ]
+      
+        
+      
+      
+    ]
+  }
+      
